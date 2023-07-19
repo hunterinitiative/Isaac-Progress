@@ -11,6 +11,6 @@
 
 .image-container {
     float: right; /* Float the image to the right side */
-    width: 500px; /* Set the width of the image container (adjust as needed) */
-    /* You can also add some margin or padding if you want space around the image */
+    width: 500px; /* Set the width */
+    /* space around the image */
 }
