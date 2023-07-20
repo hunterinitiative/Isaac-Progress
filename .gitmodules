@@ -1,0 +1,3 @@
+[submodule "Isaac-progress"]
+	path = Isaac-progress
+	url = https://github.com/hunterinitiative/Isaac-Progress.git
