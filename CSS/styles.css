@@ -1,6 +1,6 @@
 /* styles.css */
 .container {
-    max-width: 1200px; /* Set a maximum width for the container (adjust as needed) */
+    max-width: 1200px; /* maximum width for the container */
     margin: 0 auto; /* Center the container horizontally */
     padding: 20px; /* Add some padding to create space around the content */
 }
